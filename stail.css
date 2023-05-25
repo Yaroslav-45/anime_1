@@ -1,0 +1,73 @@
+.header{ 
+    border: 1px solid #000000;
+    width: 555px; 
+    padding: 20px ; 
+    margin: 40px auto; 
+ 
+} 
+.header__link{ 
+    margin: 20px; 
+    font-family: 'Playfair Display'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 14px; 
+    line-height: 19px; 
+    text-decoration: none; 
+    color: #7D7D7D; 
+ 
+} 
+ 
+.main{ 
+    width: 906px; 
+    margin: 0 auto; 
+} 
+ 
+.card { 
+    width: 420px; 
+    display: inline-block; 
+    margin: 160px 15px; 
+} 
+.card__img { 
+    margin-bottom: 62px; 
+} 
+.card__text { 
+} 
+.card__text-1 { 
+    font-family: 'Ubuntu'; 
+    font-style: normal; 
+    font-weight: 300; 
+    font-size: 14px; 
+    line-height: 16px; 
+    color: #B4AD9E; 
+} 
+.card__text-2 { 
+    font-family: 'Playfair Display'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 30px; 
+    line-height: 40px; 
+    color: #626262; 
+} 
+.card__text-3 { 
+    font-family: 'Playfair Display'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 14px; 
+    line-height: 19px;   
+    color: #626262; 
+}
+
+.button {
+    cursor: pointer;
+    padding: 20px 48px;
+    border: 1px solid #000;
+    margin: 0 auto;
+    width: 60px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+    margin-bottom: 100px;
+}
